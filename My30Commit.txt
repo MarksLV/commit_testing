@@ -1,0 +1,3 @@
+This is my 30 commit using MINGW!
+
+Showing my learning process!
