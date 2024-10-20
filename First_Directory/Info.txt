@@ -1,0 +1,1 @@
+This is to show my knowledge in making folder thro MINGW inserting files within and then pushing them thro too github!
