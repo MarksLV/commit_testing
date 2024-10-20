@@ -2,3 +2,6 @@ This is java files text file.
 
 0.1.1 version
 UPDATED hello_world.java FILE
+
+0.4.0
+Added a new Java file calculator!
