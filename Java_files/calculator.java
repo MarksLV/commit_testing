@@ -17,7 +17,7 @@ public class SimpleAdditionCalculator {
         double result = num1 + num2;
 
         // Display the result
-        System.out.println("The result of addition is: " + result);
+        System.out.println("Result of addition is: " + result);
         
         // Close the scanner
         scanner.close();
